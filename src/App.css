@@ -4,7 +4,7 @@
 
 html,
 body {
-  background: #000 url("./assets/images/bg.jpg");
+  background: #000 url("./assets/images/bg.jpg") no-repeat;
   height: 100vh;
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
